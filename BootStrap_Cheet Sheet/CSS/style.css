@@ -1,0 +1,27 @@
+*{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+  background: url('../Images/minimal\ pattern\ background.jpg');
+}
+
+.navbar {
+  background-color:  white; !important;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+
+#bio {
+  margin-top: 70px;
+  margin-left: -30px;
+}
+
+.color-me {
+  color: rgb(255, 145, 0) !important;
+  
+}
+
+.color-me2 {
+  color:  rgb(255, 145, 0) !important;
+}
